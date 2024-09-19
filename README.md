@@ -64,11 +64,6 @@ head{
 
 
 
-### automatic link
-https://bsb.com
-
-
-
 ### disable link
 `https://notable.com`
 
@@ -78,9 +73,9 @@ https://bsb.com
 [learningbd][weblink12]
 [learningscc][weblink13]
 
-[weblink11]: https://bbs.com
-[weblink12]: https://bbss.com
-[weblink13]: https://bbsss.com
+[weblink11]: https://nolink.com
+[weblink12]: https://nolink.com
+[weblink13]: https://nolink.com
 
 ### image link
 
