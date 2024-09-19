@@ -1,0 +1,107 @@
+<!-- markdown teaching -->
+
+Sabuz alom <br/> 
+This is my second line
+
+---
+
+# sabuz alom
+
+## sabuz alom
+
+### sabuz alom
+
+#### sabuz alom
+
+##### sabuz alom
+
+###### sabuz alom
+
+_Thişis and intalic_
+
+__Thişis and intalic__
+
+~~this is tild~~
+
+`this is and here line`
+
+```html
+<html>
+    <head>
+        <title> html code editor backtric </title>
+    </head>
+</html>
+```
+
+```css
+head{
+    background-color:red;
+}
+```
+
+
+
+1. item
+2. item
+    1. sub item
+    2. sub itme 2
+
+3. item
+
+
+### unorder list
+
+- lsit 1
+- list 2
+- list 3
+
+
+### task list 
+- [x] taks 1
+- [x] taks 2
+- [x] taks 3
+
+
+
+### automatic link
+https://bsb.com
+
+
+
+### disable link
+`https://notable.com`
+
+### link link
+
+[learning][weblink11]
+[learningbd][weblink12]
+[learningscc][weblink13]
+
+[weblink11]: https://bbs.com
+[weblink12]: https://bbss.com
+[weblink13]: https://bbsss.com
+
+### image link
+
+![profile](./images/freelancer%20sabuz.jpg)
+
+<br/><br/>
+
+<img src="./images/freelancer sabuz.jpg"  />
+
+### emoji
+
+ 🙂‍↔️
+
+### table 
+
+| name | email |
+|------| ------|
+|sabuz  | sah@gmail.com|
+|sabuz  | sah@gmail.com|
+|sabuz  | sah@gmail.com|
+|sabuz  | sah@gmail.com|
+|sabuz  | sah@gmail.com|
+ 
+
+### disable link
